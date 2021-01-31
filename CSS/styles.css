@@ -1,0 +1,52 @@
+
+.dis
+{ 
+  font-size: 100%;
+  color: #3C3C3C;
+  box-sizing: inherit;
+  max-width: 1100px;
+  padding: 0 40px;
+  text-align: center;
+  margin: 100px auto;
+}
+.redcaps
+{
+text-align: center;
+box-sizing: inherit; 
+padding: 0;
+margin: 0;
+width: 100%;
+font-family: "Merriweather",serif;
+font-weight: 500;
+font-size: 1.125rem;
+line-height: 28px;
+text-transform: uppercase;
+color: #e01c11;
+}
+.map
+{
+  float:left;
+  width:600px;
+  height:300px;
+  border:3px solid rgb(195, 218, 173);
+  padding: 10px;
+}
+.add
+{
+  text-emphasis: none;
+  text-align: center;
+  float: right;
+  width: 500px;
+  height:600px;
+  border: 3px solid #c5e29c;
+  padding: 10px;
+}
+
+.src1{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 10px;
+  padding:10%;
+  width: 150px;
+}
+
